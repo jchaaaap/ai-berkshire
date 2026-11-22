@@ -4,7 +4,7 @@
 > 新增报告先 `git add`，再运行 `python3 tools/reports_index.py`，将报告与索引一并提交。
 > 只收录成品报告；证据、审计、复算、底稿等中间产物不在此列，完整清单见 `index.json`。
 
-**2298 份报告** · **114 家公司** · **29 个专题** · 最近更新 2026-11-22
+**2299 份报告** · **115 家公司** · **29 个专题** · 最近更新 2026-11-22
 
 [最近更新](#最近更新) · [按公司](#按公司) · [专题研究](#专题研究) · [大师研究](#大师研究) · [筛选池](#筛选池)
 
@@ -17,6 +17,7 @@
 | 2026-11-22 | [英伟达投资研究：利润在顶点，创始人离场，账本还没交](英伟达/英伟达-research-20261122.md) | 英伟达 | 研究 |
 | 2026-11-22 | [快手（1024.HK）投资研究：主业转弱、价格接近净现金，观望并等两个检验点](快手/快手-research-20261122.md) | 快手 | 研究 |
 | 2026-11-22 | [US "Hold 10 Years" Shortlist Recheck: Mastercard, Progressive, Booking, ADP](US-shortlist-checklist-20261122.md) | 综合与横评 | 研究 |
+| 2026-11-22 | [LPL Financial (LPLA) pre-buy research: a good business at a fair price, not yet a margin-of-safety price](LPL%20Financial/LPL%20Financial-research-20261122.md) | LPL Financial | 研究 |
 | 2026-11-21 | [英伟达十年后最差情景：路径、利润与检验指标](英伟达/英伟达十年最差情景-20261121.md) | 英伟达 | 研究 |
 | 2026-11-21 | [巴菲特买入前 Checklist：英伟达（NVDA）](英伟达/巴菲特Checklist-英伟达-20261121.md) | 英伟达 | 研究 |
 | 2026-11-21 | [MiniMax 十年后最差情景：资本链、单位经济、应用层三条链同时走坏](MINIMAX/MiniMax十年最差情景-20261121.md) | MiniMax | 研究 |
@@ -53,7 +54,6 @@
 | 2026-10-21 | [唯品会（VIPS）研究报告：会计净现金占市值55%，股价已按利润长期萎缩定价](唯品会/唯品会研究报告-20261021.md) | 唯品会 | 研究 |
 | 2026-10-21 | [京东集团研究：市值八成是子公司和现金，外卖亏损决定剩下两成值多少](京东/京东研究报告-20261021.md) | 京东 | 研究 |
 | 2026-10-20 | [贵州茅台（600519）研究报告](茅台/茅台研究报告-20261020.md) | 茅台 | 研究 |
-| 2026-10-20 | [美团（03690.HK）研究报告](美团/美团研究报告-20261020.md) | 美团 | 研究 |
 
 ---
 
@@ -1819,6 +1819,13 @@
 <summary><b>Intel</b> · 1 份 · 最近 2026-06-23</summary>
 
 - `2026-06-23` [英特尔（NASDAQ: INTC）投资研究报告](Intel/Intel-investment-research-20260623.md) — 研究
+
+</details>
+
+<details>
+<summary><b>LPL Financial</b> · 1 份 · 最近 2026-11-22</summary>
+
+- `2026-11-22` [LPL Financial (LPLA) pre-buy research: a good business at a fair price, not yet a margin-of-safety price](LPL%20Financial/LPL%20Financial-research-20261122.md) — 研究
 
 </details>
 
