@@ -711,7 +711,7 @@ REM 可选：安装 Codex slash prompts
 
 ### 金融严谨性工具 (`tools/financial_rigor.py`)
 
-专门估值可调用 `/company-valuation 腾讯`（Codex 使用 `$company-valuation 腾讯`）。[公司方法指南](tools/valuation/company-playbooks.md) 覆盖 14 家公司；[估值引擎](tools/valuation/model-schema.md) 使用 Decimal 计算 DCF、股权桥、敏感性与反向估值。[验证记录](tools/valuation/validation.md) 区分算术测试、行为复核和仍需当期验证的经济假设。
+专门估值可调用 `/company-valuation 腾讯`（Codex 使用 `$company-valuation 腾讯`）。Skill 定义见 [`skills/company-valuation.md`](skills/company-valuation.md)：DCF、股权桥、分部估值、反向估值与敏感性分析。算术由 [`tools/financial_rigor.py`](tools/financial_rigor.py)（市值验算、精确计算、三情景）与 [`tools/terminal_value.py`](tools/terminal_value.py)（终值倍数、十年 IRR、准出检查、结论翻转测试）完成，逐年现金流写成 Decimal 模型脚本与报告一同保存，可复算。
 
 | 功能 | 命令 | 解决的问题 |
 |------|------|-----------|

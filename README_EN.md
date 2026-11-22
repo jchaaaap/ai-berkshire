@@ -203,6 +203,7 @@ Ask AI directly, and you have one context window. Four parallel Agents means 4×
 | [`/income-investment`](skills/income-investment.md) | Income-centered equity analysis | Distinguish durable income, opportunistic yield, and yield traps |
 | [`/portfolio-review`](skills/portfolio-review.md) | Portfolio review & optimization | Graduate from "researching companies" to "managing a portfolio" — sizing, concentration, rebalancing |
 | [`/thesis-tracker`](skills/thesis-tracker.md) | Investment thesis tracker | Post-buy discipline system: continuously track whether your thesis has been falsified |
+| [`/company-valuation`](skills/company-valuation.md) | Intrinsic value and valuation review | Shareholder cash flow, DCF, equity bridge, sum-of-the-parts, reverse valuation and sensitivity, all reproducible with the repo's math tools |
 | [`/thesis-drift`](skills/thesis-drift.md) | Investment thesis drift detection | Compare two theses/reports — separate factual, valuation, and wording changes |
 | [`/news-pulse`](skills/news-pulse.md) | Price-move rapid attribution | When a stock surges or drops — figure out "what happened" in 10 minutes |
 
