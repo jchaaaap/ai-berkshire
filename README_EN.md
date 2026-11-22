@@ -215,6 +215,12 @@ Ask AI directly, and you have one context window. Four parallel Agents means 4×
 | [`/financial-data`](skills/financial-data.md) | Financial data retrieval & cross-validation | Ensure key data comes from 2+ independent sources; alerts on >1% deviation |
 | [`/wechat-article`](skills/wechat-article.md) | WeChat article workflow | Author, editor, and reader Agents collaborate to produce a publishable article |
 
+### 📚 Guides
+
+| Guide | What it covers |
+|-------|----------------|
+| [P/E Ratio Cheat Sheet](docs/guides/pe-ratio-cheat-sheet.md) | What P/E means, trailing vs forward, earnings yield, PEG, the cyclical trap, and where P/E breaks |
+
 ---
 
 ## Quick Start
