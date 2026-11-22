@@ -1,6 +1,6 @@
 {
-  "count": 2510,
-  "published": 2299,
+  "count": 2511,
+  "published": 2300,
   "drafts": 211,
   "reports": [
     {
@@ -19,6 +19,17 @@
       "path": "reports/快手/快手-research-20261122.md",
       "bucket": "公司",
       "group": "快手",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-22",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "eToro Group (ETOR) pre-buy research: cheap on the numbers, but a cyclical trading business, so only a small position fits",
+      "path": "reports/eToro/eToro-research-20261122.md",
+      "bucket": "公司",
+      "group": "eToro",
       "series": "",
       "type": "研究",
       "date": "2026-11-22",
