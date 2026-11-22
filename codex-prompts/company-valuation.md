@@ -1,5 +1,5 @@
 ---
-description: "AI Berkshire slash entry for 公司估值：内在价值与估值复核."
+description: "AI Berkshire slash entry for Company Valuation: Intrinsic Value and Valuation Review."
 argument-hint: $ARGUMENTS
 ---
 
