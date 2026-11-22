@@ -1,6 +1,6 @@
 {
-  "count": 2507,
-  "published": 2296,
+  "count": 2508,
+  "published": 2297,
   "drafts": 211,
   "reports": [
     {
@@ -8,6 +8,17 @@
       "path": "reports/英伟达/英伟达-research-20261122.md",
       "bucket": "公司",
       "group": "英伟达",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-22",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "快手（1024.HK）投资研究：主业转弱、价格接近净现金，观望并等两个检验点",
+      "path": "reports/快手/快手-research-20261122.md",
+      "bucket": "公司",
+      "group": "快手",
       "series": "",
       "type": "研究",
       "date": "2026-11-22",
