@@ -77,6 +77,8 @@ A higher P/E means the market expects faster or safer growth.
 
 For exact calculations (P/E, earnings yield, PEG), use [`tools/financial_rigor.py`](../../tools/financial_rigor.py) rather than mental math.
 
+For the full process from "interesting" to "buy", see the [Pre-Buy Routine](pre-buy-routine.md).
+
 ---
 
 *Educational reference, not investment advice.*

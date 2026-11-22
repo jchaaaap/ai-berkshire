@@ -1,6 +1,6 @@
 {
-  "count": 2509,
-  "published": 2298,
+  "count": 2510,
+  "published": 2299,
   "drafts": 211,
   "reports": [
     {
@@ -30,6 +30,17 @@
       "path": "reports/US-shortlist-checklist-20261122.md",
       "bucket": "专题",
       "group": "综合与横评",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-22",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "LPL Financial (LPLA) pre-buy research: a good business at a fair price, not yet a margin-of-safety price",
+      "path": "reports/LPL Financial/LPL Financial-research-20261122.md",
+      "bucket": "公司",
+      "group": "LPL Financial",
       "series": "",
       "type": "研究",
       "date": "2026-11-22",
