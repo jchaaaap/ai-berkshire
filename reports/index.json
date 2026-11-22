@@ -1,6 +1,6 @@
 {
-  "count": 2508,
-  "published": 2297,
+  "count": 2509,
+  "published": 2298,
   "drafts": 211,
   "reports": [
     {
@@ -19,6 +19,17 @@
       "path": "reports/快手/快手-research-20261122.md",
       "bucket": "公司",
       "group": "快手",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-22",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "US \"Hold 10 Years\" Shortlist Recheck: Mastercard, Progressive, Booking, ADP",
+      "path": "reports/US-shortlist-checklist-20261122.md",
+      "bucket": "专题",
+      "group": "综合与横评",
       "series": "",
       "type": "研究",
       "date": "2026-11-22",
