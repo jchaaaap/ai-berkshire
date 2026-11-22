@@ -220,6 +220,7 @@ Ask AI directly, and you have one context window. Four parallel Agents means 4×
 | Guide | What it covers |
 |-------|----------------|
 | [P/E Ratio Cheat Sheet](docs/guides/pe-ratio-cheat-sheet.md) | What P/E means, trailing vs forward, earnings yield, PEG, the cyclical trap, and where P/E breaks |
+| [From "Interesting" to "Buy"](docs/guides/pre-buy-research-steps.md) | Eight steps before buying a stock: verify the numbers, bear case, buy-below price, sizing, sell rules, buying in steps |
 
 ---
 
