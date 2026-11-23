@@ -20,7 +20,7 @@
 
 > 📖 **想读报告，用 [阅读站](https://xbtlin.github.io/ai-berkshire/)**：成品报告按公司、专题、时间整理，电脑和手机都好读，可搜索、记住阅读进度。
 >
-> 📊 全部 2299 份报告（含底稿）· 115 家公司 · 29 个专题，GitHub 上的完整目录见 [研究报告索引](reports/README.md)，更新至 2026-11-22。
+> 📊 全部 2301 份报告（含底稿）· 117 家公司 · 29 个专题，GitHub 上的完整目录见 [研究报告索引](reports/README.md)，更新至 2026-11-23。
 
 <!-- REPORTS-BANNER:END -->
 
@@ -667,18 +667,18 @@ REM 可选：安装 Codex slash prompts
 
 <!-- REPORTS-INDEX:START 由 tools/reports_index.py 自动更新，勿手改 -->
 
-**📊 [全部研究索引 →](reports/README.md)** ｜ 2299 份报告 · 115 家公司 · 29 个专题 · 更新至 2026-11-22
+**📊 [全部研究索引 →](reports/README.md)** ｜ 2301 份报告 · 117 家公司 · 29 个专题 · 更新至 2026-11-23
 
 最近更新：
 
 | 日期 | 报告 | 归属 |
 |------|------|------|
+| 2026-11-23 | [Nvidia (NVDA) short evaluation: the bear case is real, but at ~15x earnings a short has no valuation edge and poor odds](reports/Nvidia/Nvidia-short-20261123.md) | Nvidia |
 | 2026-11-22 | [英伟达投资研究：利润在顶点，创始人离场，账本还没交](reports/英伟达/英伟达-research-20261122.md) | 英伟达 |
 | 2026-11-22 | [快手（1024.HK）投资研究：主业转弱、价格接近净现金，观望并等两个检验点](reports/快手/快手-research-20261122.md) | 快手 |
+| 2026-11-22 | [eToro Group (ETOR) pre-buy research: cheap on the numbers, but a cyclical trading business, so only a small position fits](reports/eToro/eToro-research-20261122.md) | eToro |
 | 2026-11-22 | [US "Hold 10 Years" Shortlist Recheck: Mastercard, Progressive, Booking, ADP](reports/US-shortlist-checklist-20261122.md) | 综合与横评 |
 | 2026-11-22 | [LPL Financial (LPLA) pre-buy research: a good business at a fair price, not yet a margin-of-safety price](reports/LPL%20Financial/LPL%20Financial-research-20261122.md) | LPL Financial |
-| 2026-11-21 | [英伟达十年后最差情景：路径、利润与检验指标](reports/英伟达/英伟达十年最差情景-20261121.md) | 英伟达 |
-| 2026-11-21 | [MiniMax 十年后最差情景：资本链、单位经济、应用层三条链同时走坏](reports/MINIMAX/MiniMax十年最差情景-20261121.md) | MiniMax |
 
 <!-- REPORTS-INDEX:END -->
 

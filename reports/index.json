@@ -1,8 +1,19 @@
 {
-  "count": 2511,
-  "published": 2300,
+  "count": 2512,
+  "published": 2301,
   "drafts": 211,
   "reports": [
+    {
+      "title": "Nvidia (NVDA) short evaluation: the bear case is real, but at ~15x earnings a short has no valuation edge and poor odds",
+      "path": "reports/Nvidia/Nvidia-short-20261123.md",
+      "bucket": "公司",
+      "group": "Nvidia",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-23",
+      "date_source": "文件名",
+      "ticker": ""
+    },
     {
       "title": "英伟达投资研究：利润在顶点，创始人离场，账本还没交",
       "path": "reports/英伟达/英伟达-research-20261122.md",
