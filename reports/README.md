@@ -4,7 +4,7 @@
 > 新增报告先 `git add`，再运行 `python3 tools/reports_index.py`，将报告与索引一并提交。
 > 只收录成品报告；证据、审计、复算、底稿等中间产物不在此列，完整清单见 `index.json`。
 
-**2300 份报告** · **116 家公司** · **29 个专题** · 最近更新 2026-11-22
+**2301 份报告** · **117 家公司** · **29 个专题** · 最近更新 2026-11-23
 
 [最近更新](#最近更新) · [按公司](#按公司) · [专题研究](#专题研究) · [大师研究](#大师研究) · [筛选池](#筛选池)
 
@@ -14,6 +14,7 @@
 
 | 日期 | 报告 | 归属 | 类型 |
 |------|------|------|------|
+| 2026-11-23 | [Nvidia (NVDA) short evaluation: the bear case is real, but at ~15x earnings a short has no valuation edge and poor odds](Nvidia/Nvidia-short-20261123.md) | Nvidia | 研究 |
 | 2026-11-22 | [英伟达投资研究：利润在顶点，创始人离场，账本还没交](英伟达/英伟达-research-20261122.md) | 英伟达 | 研究 |
 | 2026-11-22 | [快手（1024.HK）投资研究：主业转弱、价格接近净现金，观望并等两个检验点](快手/快手-research-20261122.md) | 快手 | 研究 |
 | 2026-11-22 | [eToro Group (ETOR) pre-buy research: cheap on the numbers, but a cyclical trading business, so only a small position fits](eToro/eToro-research-20261122.md) | eToro | 研究 |
@@ -53,7 +54,6 @@
 | 2026-10-21 | [泡泡玛特机构调研汇总：短期修复分歧、营业额与利润展望](泡泡玛特/泡泡玛特-机构调研汇总与经营展望-20261021.md) | 泡泡玛特 | 研究 |
 | 2026-10-21 | [汽车之家：市值约等于净现金，收入一年少三成，买的是现金怎么回到股东手里](汽车之家/汽车之家研究报告-20261021.md) | 汽车之家 | 研究 |
 | 2026-10-21 | [唯品会（VIPS）研究报告：会计净现金占市值55%，股价已按利润长期萎缩定价](唯品会/唯品会研究报告-20261021.md) | 唯品会 | 研究 |
-| 2026-10-21 | [京东集团研究：市值八成是子公司和现金，外卖亏损决定剩下两成值多少](京东/京东研究报告-20261021.md) | 京东 | 研究 |
 
 ---
 
@@ -1847,6 +1847,13 @@
 <summary><b>Nittobo</b> · 1 份 · 最近 2026-06-04</summary>
 
 - `2026-06-04` [Nittobo (3110.T) 深度投资研究](Nittobo/Nittobo-3110-research-20260604.md) — 研究
+
+</details>
+
+<details>
+<summary><b>Nvidia</b> · 1 份 · 最近 2026-11-23</summary>
+
+- `2026-11-23` [Nvidia (NVDA) short evaluation: the bear case is real, but at ~15x earnings a short has no valuation edge and poor odds](Nvidia/Nvidia-short-20261123.md) — 研究
 
 </details>
 
